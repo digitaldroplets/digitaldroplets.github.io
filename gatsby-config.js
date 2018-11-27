@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Digital Droplets // software and systems',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
